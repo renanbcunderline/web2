@@ -1,0 +1,3 @@
+Divisão do progresso do desenvolvimento marcado por interações com o repositório de código que armazenam e mapeiam o histórico dessas interações.
+A existência dessa ferramenta permite o trabalho colaborativo e contínuo a partir de pontos em comum dessas versões de código, agilizando o desenvolviemto.
+Também é uma importante função do versionamento o mapeamento de funções e bugs adicionados no desenvolvimento, a partir do histórico de modificações realizadas.-
