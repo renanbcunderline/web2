@@ -1,0 +1,3 @@
+Surgindo como uma nova forma de compartilhar informação, a World Wide Web, por meio de documentos mutuamente conectados com o uso do HTML, revolucionou a forma de distribuição
+de informação ao tornar esse processo muito mais rápido e de acesso a longo alcance. Apesar da simplicidade do seu início, apenas com documentos conectados, este avanço serviu de base,
+e impulsionado pela evolução das tecnologias, para chegar ao que hoje se vê nas aplicações web.
