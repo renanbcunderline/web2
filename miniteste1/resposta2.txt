@@ -1,0 +1,3 @@
+html: formatação semântica e detentor do conteúdo a ser mostrado na aplicação web;
+css: estilisador visual do conteúdo html a ser visualizado;
+github: ferramenta de repositório e versionamento de código para melhorar o desenvolviemto contínuo e colaborativo entre grupos.
