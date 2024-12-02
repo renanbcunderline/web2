@@ -1,0 +1,2 @@
+Definiria a estrutura do projeto, com subterefas e prazos, dividiria paralelamente essas tarefas entre os membros com implementações que assim poderiam ser feitas
+a partir do definido na estrutura inicial, necessitando, para isso, a utilização de ferramentas de versionamento. 
