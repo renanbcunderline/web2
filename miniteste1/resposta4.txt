@@ -1,0 +1,2 @@
+O javascript, como uma linguagem de programação, veio para dar lógica aos conteúdos do html visualizados e, agora, manipuláveis por quem acessa as aplicações web.
+Esse comportamento possibilitou o avanço da complexidade  dos sites e tornou possível o surgimento de sistemas como visualizamos hoje: desde sites com login até aplicações bancárias.
